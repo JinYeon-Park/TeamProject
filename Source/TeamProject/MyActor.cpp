@@ -15,6 +15,6 @@ void AMyActor::BeginPlay()
 {
 	Super::BeginPlay();
 
-	UE_LOG(LogTemp, Log, TEXT("Written by KUJ."));
+	UE_LOG(LogTemp, Log, TEXT("Written by KUJ.!!!"));
 }
 
